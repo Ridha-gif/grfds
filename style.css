@@ -1,0 +1,29 @@
+.lk{
+    width:100%;
+    color:white;
+    font-size:21px;
+    font-weight:bolder;
+    font-family: 'Acme', sans-serif;
+    animation: mymove 5s infinite;
+    margin-bottom:40px
+}
+
+@keyframes mymove {
+  50% {box-shadow: 10px 20px 30px blue;}
+}
+body{
+    background-image: url('earphones-music-notes-wooden-background-flat-lay-space-text-142365566.jpeg');background-repeat: no-repeat;width:100%;background-size: cover;height:50em
+}
+.mm{
+    font-size:22px;
+    color:white;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif
+}
+    canvas{
+        margin-top:150px;
+        border-radius: 100px;
+        border-color:white;
+        border-width:5px  solid white;
+    }
+
